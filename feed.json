@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "sukasuke",
     "description": "",
-    "home_page_url": "https://sukasuke.github.io",
-    "feed_url": "https://sukasuke.github.io/feed.json",
+    "home_page_url": "https://sukasuke.github.io/sukasuke",
+    "feed_url": "https://sukasuke.github.io/sukasuke/feed.json",
     "user_comment": "",
     "author": {
         "name": "suke"
