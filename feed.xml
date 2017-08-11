@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>sukasuke</title>
-    <link href="https://sukasuke.github.io/sukasuke/feed.xml" rel="self" />
-    <link href="https://sukasuke.github.io/sukasuke" />
-    <updated>2017-08-11T12:55:53+07:00</updated>
+    <link href="https://sukasuke.github.io/feed.xml" rel="self" />
+    <link href="https://sukasuke.github.io" />
+    <updated>2017-08-11T13:00:12+07:00</updated>
     <author>
         <name>suke</name>
     </author>
-    <id>https://sukasuke.github.io/sukasuke</id>
+    <id>https://sukasuke.github.io</id>
 
     <entry>
         <title>testing testing . . . di tes bunting . . .</title>
         <author>
             <name>suke</name>
         </author>
-        <link href="https://sukasuke.github.io/sukasuke/testing-testing-di-tes-bunting.html"/>
-        <id>https://sukasuke.github.io/sukasuke/testing-testing-di-tes-bunting.html</id>
+        <link href="https://sukasuke.github.io/testing-testing-di-tes-bunting.html"/>
+        <id>https://sukasuke.github.io/testing-testing-di-tes-bunting.html</id>
 
         <updated>2017-08-11T12:54:53+07:00</updated>
             <summary></summary>
