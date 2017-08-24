@@ -3,14 +3,14 @@
     <title>sukasuke</title>
     <link href="https://sukasuke.github.io/feed.xml" rel="self" />
     <link href="https://sukasuke.github.io" />
-    <updated>2017-08-25T06:51:59+07:00</updated>
+    <updated>2017-08-25T06:56:57+07:00</updated>
     <author>
         <name>suke</name>
     </author>
     <id>https://sukasuke.github.io</id>
 
     <entry>
-        <title>BIKIN BLOG CEPAT, AMAN DAN MUDAH DENGAN PUBLII</title>
+        <title>MUDAH BIKIN BLOG DENGAN PUBLII</title>
         <author>
             <name>suke</name>
         </author>
@@ -23,8 +23,12 @@
             <category term="mac"/>
             <category term="blog"/>
 
-        <updated>2017-08-13T10:44:33+07:00</updated>
+        <updated>2017-08-25T06:56:46+07:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                Gimana Gan, tampilan blog ane ??? Sebenernya bikin blog udah gampang. Banyak penyedia&nbsp;
+            ]]>
+        </content>
     </entry>
 </feed>
