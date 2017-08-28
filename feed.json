@@ -5,6 +5,7 @@
     "home_page_url": "https://sukasuke.github.io",
     "feed_url": "https://sukasuke.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://sukasuke.github.io/media/website/sdgh-logo.png",
     "author": {
         "name": "Sandhang Apparel"
     },
@@ -19,7 +20,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T09:12:49+07:00",
+            "date_published": "2017-08-28T09:37:10+07:00",
             "date_modified": "2017-08-28T09:04:46+07:00"
         },
         {
@@ -32,8 +33,8 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T09:12:49+07:00",
-            "date_modified": "2017-08-28T09:05:23+07:00"
+            "date_published": "2017-08-28T09:37:10+07:00",
+            "date_modified": "2017-08-28T09:36:59+07:00"
         }
     ]
 }
