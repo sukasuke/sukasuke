@@ -3,27 +3,37 @@
     <title>sukasuke</title>
     <link href="https://sukasuke.github.io/feed.xml" rel="self" />
     <link href="https://sukasuke.github.io" />
-    <updated>2017-08-28T09:41:14+07:00</updated>
+    <updated>2017-08-28T10:33:10+07:00</updated>
     <author>
         <name>Sandhang Apparel</name>
     </author>
     <id>https://sukasuke.github.io</id>
 
     <entry>
-        <title>Contact Us</title>
+        <title>Our Featured Product</title>
         <author>
             <name>Sandhang Apparel</name>
         </author>
-        <link href="https://sukasuke.github.io/contact-us.html"/>
-        <id>https://sukasuke.github.io/contact-us.html</id>
+        <link href="https://sukasuke.github.io/our-featured-product.html"/>
+        <id>https://sukasuke.github.io/our-featured-product.html</id>
 
-        <updated>2017-08-28T09:04:46+07:00</updated>
+        <updated>2017-08-28T10:32:40+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>SDHG</title>
+        <author>
+            <name>Sandhang Apparel</name>
+        </author>
+        <link href="https://sukasuke.github.io/sdhg.html"/>
+        <id>https://sukasuke.github.io/sdhg.html</id>
+
+        <updated>2017-08-28T10:31:00+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <h2 class="align-center">Get in touch</h2>
-<p><br>Untuk pertanyaan mengenai Layanan, Produk dan bantuan lainnya, jangan ragu untuk menghubungi kami.<br><br>SMS/Call/WA:<br>(+62) 815-7331-5727<br>(+62) 812-8005-3788<br>Email:&nbsp;cs@sandhangapparel.com<br>Email:&nbsp;sandhangapparel@gmail.com<br><br>Jl Raya Bojongsari No.8,<br>Depok - Jawa Barat 16516</p>
-<p>&nbsp;</p>
+                <img class="align-center" src="https://sukasuke.github.io/media/posts/5/home_sdhg_sliderbgxxxx.jpg" alt="" width="1920" height="780">
             ]]>
         </content>
     </entry>
