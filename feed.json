@@ -19,21 +19,21 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T10:34:45+07:00",
+            "date_published": "2017-08-28T10:47:18+07:00",
             "date_modified": "2017-08-28T10:34:34+07:00"
         },
         {
             "id": "https://sukasuke.github.io/sdhg.html",
             "url": "https://sukasuke.github.io/sdhg.html",
             "title": "SDHG",
-            "content_html": "<img class=\"align-center\" src=\"https://sukasuke.github.io/media/posts/5/home_sdhg_sliderbgxxxx.jpg\" alt=\"\" width=\"1920\" height=\"780\">",
+            "image": "https://sukasuke.github.io/media/posts/5/home_sdhg_sliderbgxxxx.jpg",
             "author": {
                 "name": "Sandhang Apparel"
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T10:34:45+07:00",
-            "date_modified": "2017-08-28T10:31:00+07:00"
+            "date_published": "2017-08-28T10:47:18+07:00",
+            "date_modified": "2017-08-28T10:47:06+07:00"
         }
     ]
 }
