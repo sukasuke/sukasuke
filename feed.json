@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://sukasuke.github.io/contact-us.html",
+            "url": "https://sukasuke.github.io/contact-us.html",
+            "title": "Contact Us",
+            "content_html": "<h2 class=\"align-center\">Get in touch</h2>\n<p><br>Untuk pertanyaan mengenai Layanan, Produk dan bantuan lainnya, jangan ragu untuk menghubungi kami.<br><br>SMS/Call/WA:<br>(+62) 815-7331-5727<br>(+62) 812-8005-3788<br>Email:&nbsp;cs@sandhangapparel.com<br>Email:&nbsp;sandhangapparel@gmail.com<br><br>Jl Raya Bojongsari No.8,<br>Depok - Jawa Barat 16516</p>\n<p>&nbsp;</p>",
+            "author": {
+                "name": "suke"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-28T09:05:34+07:00",
+            "date_modified": "2017-08-28T09:04:46+07:00"
+        },
+        {
             "id": "https://sukasuke.github.io/tentang-sandhang-apparel.html",
             "url": "https://sukasuke.github.io/tentang-sandhang-apparel.html",
             "title": "Tentang  SandHang Apparel",
@@ -19,8 +32,8 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T08:59:28+07:00",
-            "date_modified": "2017-08-28T08:54:18+07:00"
+            "date_published": "2017-08-28T09:05:34+07:00",
+            "date_modified": "2017-08-28T09:05:23+07:00"
         }
     ]
 }

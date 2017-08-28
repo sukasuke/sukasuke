@@ -3,12 +3,30 @@
     <title>sukasuke</title>
     <link href="https://sukasuke.github.io/feed.xml" rel="self" />
     <link href="https://sukasuke.github.io" />
-    <updated>2017-08-28T08:59:27+07:00</updated>
+    <updated>2017-08-28T09:05:33+07:00</updated>
     <author>
         <name>suke</name>
     </author>
     <id>https://sukasuke.github.io</id>
 
+    <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>suke</name>
+        </author>
+        <link href="https://sukasuke.github.io/contact-us.html"/>
+        <id>https://sukasuke.github.io/contact-us.html</id>
+
+        <updated>2017-08-28T09:04:46+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Get in touch</h2>
+<p><br>Untuk pertanyaan mengenai Layanan, Produk dan bantuan lainnya, jangan ragu untuk menghubungi kami.<br><br>SMS/Call/WA:<br>(+62) 815-7331-5727<br>(+62) 812-8005-3788<br>Email:&nbsp;cs@sandhangapparel.com<br>Email:&nbsp;sandhangapparel@gmail.com<br><br>Jl Raya Bojongsari No.8,<br>Depok - Jawa Barat 16516</p>
+<p>&nbsp;</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tentang  SandHang Apparel</title>
         <author>
@@ -17,7 +35,7 @@
         <link href="https://sukasuke.github.io/tentang-sandhang-apparel.html"/>
         <id>https://sukasuke.github.io/tentang-sandhang-apparel.html</id>
 
-        <updated>2017-08-28T08:54:18+07:00</updated>
+        <updated>2017-08-28T09:05:23+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
